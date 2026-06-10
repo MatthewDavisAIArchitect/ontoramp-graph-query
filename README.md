@@ -69,7 +69,7 @@ When `get_evidence_for_claim` surfaces evidence coverage gaps, the server prompt
 
 ## Security
 
-- All responses are SO-24 audited — no scoring-formula internals, no substrate architecture details
+- All responses are audited for public release — no scoring-formula internals, no substrate architecture details
 - Your data is scoped to your tenant namespace and never shared across organizations
 - Free-tier keys are read-scoped; Developer/Org keys require account authentication
 - `GET /health` returns live status
@@ -82,4 +82,4 @@ When `get_evidence_for_claim` surfaces evidence coverage gaps, the server prompt
 
 ---
 
-*Governed by the Davis Canon — SSOT. OntoRamp LLC · [ontoramp.com](https://ontoramp.com)*
+*Governed by OntoRamp Governance Physics. OntoRamp LLC · [ontoramp.com](https://ontoramp.com)*
